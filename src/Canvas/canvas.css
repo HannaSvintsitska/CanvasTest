@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    margin-top: 20px;
+    border: 2px solid red;
+    color: red;
+}
+
+.canvas {
+    border: 2px solid red;
+}
